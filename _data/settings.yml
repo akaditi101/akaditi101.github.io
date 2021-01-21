@@ -195,7 +195,7 @@ portfolio-items:
     portfolio-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "500x500.jpg" 
     url: "#"
     portfolio-type:
       - type: "illustration"
