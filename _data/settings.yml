@@ -158,7 +158,7 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     
-  - image : "dog.jpg"
+  - image : "assets/images/portfolio/dog.jpg"
     url: "#"
     
   - image : "assets/images/portfolio/item-4.png"
@@ -195,7 +195,7 @@ portfolio-items:
     portfolio-type:
       - type: "branding"
       
-  - image : "dog.jpg" 
+  - image : "assets/images/portfolio/dog.jpg" 
     url: "#"
     portfolio-type:
       - type: "illustration"
